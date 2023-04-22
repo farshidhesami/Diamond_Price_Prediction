@@ -1,2 +1,4 @@
 venv
-
+build
+Diamond_Price_Analysis.egg-info
+dist
